@@ -770,10 +770,10 @@ body {
     }
 
     .grid-container--technology {
-        grid-template-columns: minmax(1rem, 1fr) minmax(0, 8rem) 
+        grid-template-columns: minmax(1rem, 1fr) minmax(0, 6rem) 
         minmax(0, 30rem) minmax(0, 30rem) minmax(1rem, 1fr);
-        justify-items: start;
-        --flow-space: 0rem;
+        /* justify-items: start; */
+        --flow-space: 1rem;
         grid-template-areas: 
             '. title title title .'
             '. tabs content image .';
@@ -781,6 +781,10 @@ body {
 
     .grid-container--technology > .lg-dot-indicators {
         flex-direction: column;
+    }
+
+    .grid-container--technology .spaceport {
+        font-size: clamp(1rem, 5vw, var(--fs-700)); 
     }
 
     .grid-container--technology > picture {
