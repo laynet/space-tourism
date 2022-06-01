@@ -1,6 +1,6 @@
 # Frontend Mentor - Space tourism website solution
 
-This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/responsive-mobile-first-space-tourism-page-RZOksPfUkW)
 - Live Site URL: [deployed with netlify](https://tourmaline-biscuit-d23dd3.netlify.app/)
 
 ## My process
@@ -49,15 +49,13 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
 ### What I learned
 
-Part of this was a tutorial from Kevin Powell. I wanted to get a better grasp on layout and using utility classes and after building this site I think I have that. 
+Part of this was a tutorial from Kevin Powell. I wanted to get a better grasp on layout and using utility classes and after building this site I think I have that.
 
 ### Continued development
 
 I would definitely like to rebuild this with react and sass
-
 
 ## Author
 
